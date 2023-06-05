@@ -1,0 +1,50 @@
+project:
+  type: book
+  output-dir: doc
+
+book:
+  title: "管理会計"
+  author: 
+  - name: "佐久間 智広" 
+    affiliation: "GSBA, Kobe University"
+    email: "sakuma@port.kobe-u.ac.jp"
+  date: today
+  cover-image: logo_long.png
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+subtitle: "2023年度　管理会計"
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+  revealjs:
+    width: 1280
+    height: 1024
+    slide-number: true
+    preview-links: auto
+    logo: kobe.png
+    css: styles.css
+    footer: "2023管理会計"
+    smaller: false
+    scrollable: true
+    theme: [white,fonts.scss]
+    fig-cap-location: bottom
+    tbl-cap-location: top
+    embed-resources: false
+    chalkboard:
+      buttons: true
+    number-sections: true
+    number-depth: 2
+    toc: true
+    toc-depth: 1
+    navigation-mode: vertical
+
+editor: visual
+
