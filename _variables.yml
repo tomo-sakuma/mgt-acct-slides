@@ -1,0 +1,14 @@
+
+instructor:
+  name: 佐久間 智広
+  email: sakuma@port.kobe-u.ac.jp
+  url: "https://www.andrewheiss.com"
+  office: "第4学舎5階"
+
+
+author: 
+  - name: "佐久間 智広"
+    affiliation: "神戸大学大学院経営学研究科"
+    email: "sakuma@port.kobe-u.ac.jp"
+date: today
+date-format: YYYY/MM/DD

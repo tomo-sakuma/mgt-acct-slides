@@ -317,6 +317,53 @@
             "title": "The role of performance measurement and evaluation in building organizational capabilities and performance",
             "type": "article-journal",
             "volume": "35"
+        },
+        {
+            "URL": "http://ci.nii.ac.jp/ncid/BB20935597",
+            "author": [
+                {
+                    "family": "伊丹",
+                    "given": "敬之"
+                },
+                {
+                    "family": "青木",
+                    "given": "康晴"
+                }
+            ],
+            "id": "itami2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "note": "Citation Key: itami2016",
+            "publisher": "日本経済新聞出版社",
+            "title": "現場が動き出す会計 : 人はなぜ測定されると行動を変えるのか",
+            "title-short": "現場が動き出す会計 ",
+            "type": "book"
+        },
+        {
+            "URL": "http://id.ndl.go.jp/bib/032040427",
+            "author": [
+                {
+                    "family": "梶原",
+                    "given": "武久"
+                }
+            ],
+            "id": "kajiwara2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "note": "Citation Key: kajiwara2022",
+            "publisher": "中央経済社",
+            "title": "戦略的コストマネジメント = strategic cost management",
+            "type": "book"
         }
     ],
     "project_biblios": [
