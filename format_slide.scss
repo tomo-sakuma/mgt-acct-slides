@@ -2,9 +2,18 @@
 
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+JP:wght@400;600&family=JetBrains+Mono:ital,wght@0,300;0,600;1,300;1,600&family=Jost:ital,wght@0,400;0,600;1,400;1,600&family=Montserrat:ital,wght@0,300;0,600;1,300;1,600&display=swap');
 
+
+@font-face {
+  /*フォントの名前*/
+  font-family: "VictorMono";
+  /*フォントファイルへのパス（複数指定の場合、上から順に読み込まれる）*/
+  src: url("resource/VictorMono-Regular.woff2") format("woff2"),
+       url("resource/VictorMono-Oblique.woff2") format("woff2");
+}
+
 // fonts
-$font-family-sans-serif: 'Graphik','Hiragino Sans', -apple-system, 'BlinkMacSystemFont', 'Jost', 'IBM Plex Sans JP', sans-serif !default;
-$font-family-monospace: 'JetBrains Mono', monospace !default;
+$font-family-sans-serif: 'Graphik', -apple-system, 'BlinkMacSystemFont', 'Jost','HiraginoSans-W3', 'IBM Plex Sans JP', sans-serif !default;
+$font-family-monospace: 'VictorMono','JetBrains Mono', monospace !default;
 $presentation-heading-font: 'Montserrat','Hiragino Sans', -apple-system, 'BlinkMacSystemFont', 'Jost', 'IBM Plex Sans JP', sans-serif !default;;
 $presentation-font-size-root: 36px;
 $body-color:#1A5C71;
@@ -15,6 +24,7 @@ $presentation-h1-font-size: 2em;
 $presentation-h2-font-size: 1.6em;
 $presentation-h3-font-size: 1.2em;
 $code-block-font-size: 0.8em;
+$callout-color-note: #1A5C71;
 
 /*-- scss:rules --*/
 
@@ -63,4 +73,16 @@ $code-block-font-size: 0.8em;
 .reveal ol {
   list-style-position: inside;
   margin-left: 0;
+}
+
+.reveal table, th, td {
+    font-family: 'Goldman Sans', -apple-system, 'BlinkMacSystemFont','Hiragino Sans', 'Jost', 'IBM Plex Sans JP', sans-serif;
+}
+
+.reveal .callout.callout-style-simple .callout-body {
+    font-size: 1.2em;
+}
+
+.reveal .callout.callout-style-default .callout-body {
+    font-size: 1.2em;
 }

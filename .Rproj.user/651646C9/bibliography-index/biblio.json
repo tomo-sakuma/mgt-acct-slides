@@ -317,6 +317,396 @@
             "title": "The role of performance measurement and evaluation in building organizational capabilities and performance",
             "type": "article-journal",
             "volume": "35"
+        },
+        {
+            "URL": "http://ci.nii.ac.jp/ncid/BB20935597",
+            "author": [
+                {
+                    "family": "伊丹",
+                    "given": "敬之"
+                },
+                {
+                    "family": "青木",
+                    "given": "康晴"
+                }
+            ],
+            "id": "itami2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "note": "Citation Key: itami2016",
+            "publisher": "日本経済新聞出版社",
+            "title": "現場が動き出す会計 : 人はなぜ測定されると行動を変えるのか",
+            "title-short": "現場が動き出す会計 ",
+            "type": "book"
+        },
+        {
+            "URL": "http://id.ndl.go.jp/bib/032040427",
+            "author": [
+                {
+                    "family": "梶原",
+                    "given": "武久"
+                }
+            ],
+            "id": "kajiwara2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "note": "Citation Key: kajiwara2022",
+            "publisher": "中央経済社",
+            "title": "戦略的コストマネジメント = strategic cost management",
+            "type": "book"
+        },
+        {
+            "URL": "https://cir.nii.ac.jp/crid/1524232505045920640",
+            "author": [
+                {
+                    "family": "中條",
+                    "given": "祐介"
+                }
+            ],
+            "container-title": "會計",
+            "id": "nakajo2011",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011,
+                        12
+                    ]
+                ]
+            },
+            "note": "Publisher: 森山書店 Citation Key: nakajo2011",
+            "page": "805-819",
+            "title": "中期経営計画情報の自発的開示行動とその企業特性",
+            "type": "article-journal",
+            "volume": "180"
+        },
+        {
+            "author": [
+                {
+                    "family": "Miles",
+                    "given": "Raymond E."
+                },
+                {
+                    "family": "Snow",
+                    "given": "Charles C."
+                }
+            ],
+            "collection-title": "McGraw-hill series in management",
+            "id": "miles1978",
+            "issued": {
+                "date-parts": [
+                    [
+                        1978
+                    ]
+                ]
+            },
+            "note": "tex.key: Industrial management",
+            "publisher": "McGraw-Hill",
+            "publisher-place": "New York",
+            "title": "Organizational strategy, structure, and process",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "櫻井",
+                    "given": "通晴"
+                }
+            ],
+            "edition": "第6版",
+            "id": "sakurai2015a",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "note": "tex.key: 管理会計 Citation Key: sakurai2015a",
+            "publisher": "同文舘出版",
+            "publisher-place": "東京",
+            "title": "管理会計",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1037/0003-066X.57.9.705",
+            "author": [
+                {
+                    "family": "Locke",
+                    "given": "Edwin A."
+                },
+                {
+                    "family": "Latham",
+                    "given": "Gary P."
+                }
+            ],
+            "container-title": "American Psychologist",
+            "id": "locke2002",
+            "issue": "9",
+            "issued": {
+                "date-parts": [
+                    [
+                        2002
+                    ]
+                ]
+            },
+            "note": "Place: US Publisher: American Psychological Association",
+            "page": "705-717",
+            "title": "Building a practically useful theory of goal setting and task motivation: A 35-year odyssey.",
+            "title-short": "Building a practically useful theory of goal setting and task motivation",
+            "type": "article-journal",
+            "volume": "57"
+        },
+        {
+            "author": [
+                {
+                    "family": "加登",
+                    "given": "豊"
+                },
+                {
+                    "family": "梶原",
+                    "given": "武久"
+                }
+            ],
+            "collection-number": "1369, C41",
+            "collection-title": "日経文庫",
+            "edition": "第2版",
+            "id": "kato2017",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "note": "tex.key: 管理会計 Citation Key: kato2017",
+            "publisher": "日本経済新聞出版社",
+            "publisher-place": "東京",
+            "title": "管理会計入門",
+            "type": "book"
+        },
+        {
+            "DOI": "http://dx.doi.org/10.1016/S0165-4101(01)00044-1",
+            "URL": "http://www.sciencedirect.com/science/article/pii/S0165410101000441 http://ac.els-cdn.com/S0165410101000441/1-s2.0-S0165410101000441-main.pdf?_tid=9a1a9e4c-6a09-11e6-b4fd-00000aacb360&acdnat=1472050195_7f9da3b663da1ad890a69b3120c78897",
+            "author": [
+                {
+                    "family": "Leone",
+                    "given": "Andrew J"
+                },
+                {
+                    "family": "Rock",
+                    "given": "Steve"
+                }
+            ],
+            "container-title": "Journal of Accounting and Economics",
+            "id": "leone2002",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2002
+                    ]
+                ]
+            },
+            "page": "4367",
+            "title": "Empirical tests of budget ratcheting and its effect on managers’ discretionary accrual choices",
+            "type": "article-journal",
+            "volume": "33"
+        },
+        {
+            "DOI": "10.1016/j.jacceco.2010.07.002",
+            "URL": "http://linkinghub.elsevier.com/retrieve/pii/S0165410110000315",
+            "author": [
+                {
+                    "family": "Bouwens",
+                    "given": "Jan"
+                },
+                {
+                    "family": "Kroos",
+                    "given": "Peter"
+                }
+            ],
+            "container-title": "Journal of Accounting and Economics",
+            "id": "bouwens2011",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "page": "171185",
+            "title": "Target ratcheting and effort reduction",
+            "type": "article-journal",
+            "volume": "51"
+        },
+        {
+            "DOI": "10.2307/4093105",
+            "URL": "http://www.jstor.org/stable/4093105",
+            "author": [
+                {
+                    "family": "Matsumura",
+                    "given": "Ella Mae"
+                },
+                {
+                    "family": "Shin",
+                    "given": "Jae Yong"
+                }
+            ],
+            "container-title": "The Accounting Review",
+            "id": "matsumura2006",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006
+                    ]
+                ]
+            },
+            "page": "533566",
+            "title": "An empirical analysis of an incentive plan with relative performance measures: Evidence from a postal service",
+            "title-short": "An empirical analysis of an incentive plan with relative performance measures",
+            "type": "article-journal",
+            "volume": "81"
+        },
+        {
+            "DOI": "10.1111/1475-679X.12244",
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679X.12244",
+            "author": [
+                {
+                    "family": "Holzhacker",
+                    "given": "Martin"
+                },
+                {
+                    "family": "Kramer",
+                    "given": "Stephan"
+                },
+                {
+                    "family": "Matějka",
+                    "given": "Michal"
+                },
+                {
+                    "family": "Hoffmeister",
+                    "given": "Nick"
+                }
+            ],
+            "container-title": "Journal of Accounting Research",
+            "id": "holzhacker2019",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        3
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "211-239",
+            "title": "Relative Target Setting and Cooperation",
+            "type": "article-journal",
+            "volume": "57"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hope",
+                    "given": "Jeremy"
+                },
+                {
+                    "family": "Fraser",
+                    "given": "Robin"
+                }
+            ],
+            "id": "hope2003",
+            "issued": {
+                "date-parts": [
+                    [
+                        2003
+                    ]
+                ]
+            },
+            "note": "tex.key: Management",
+            "publisher": "Harvard Business School Press",
+            "publisher-place": "Boston, Mass.",
+            "title": "Beyond budgeting : How managers can break free from the annual performance trap",
+            "title-short": "Beyond budgeting ",
+            "type": "book"
+        },
+        {
+            "URL": "https://cir.nii.ac.jp/crid/1050282813924478848",
+            "author": [
+                {
+                    "family": "横田",
+                    "given": "絵理"
+                },
+                {
+                    "family": "高田",
+                    "given": "朝子"
+                },
+                {
+                    "family": "妹尾",
+                    "given": "剛好"
+                },
+                {
+                    "family": "金子",
+                    "given": "晋也"
+                }
+            ],
+            "container-title": "三田商学研究",
+            "id": "yokota2012",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012,
+                        10
+                    ]
+                ]
+            },
+            "note": "Publisher: 慶應義塾大学出版会 Citation Key: yokota2012",
+            "page": "93-117",
+            "title": "日本企業におけるマネジメント・コントロール・システムとマネジャーの行動に関する実態調査",
+            "type": "article-journal",
+            "volume": "55"
+        },
+        {
+            "DOI": "10.1016/j.aos.2018.06.001",
+            "URL": "http://www.sciencedirect.com/science/article/pii/S0361368218303234",
+            "author": [
+                {
+                    "family": "Arnold",
+                    "given": "Markus"
+                },
+                {
+                    "family": "Artz",
+                    "given": "Martin"
+                }
+            ],
+            "container-title": "Accounting, Organizations and Society",
+            "id": "arnold2019",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        2,
+                        1
+                    ]
+                ]
+            },
+            "page": "50-67",
+            "title": "The use of a single budget or separate budgets for planning and performance evaluation",
+            "type": "article-journal",
+            "volume": "73"
         }
     ],
     "project_biblios": [

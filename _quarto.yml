@@ -19,7 +19,7 @@ format:
     slide-number: true
     preview-links: auto
     logo: images/kobe.png
-    css: parts/styles.css
+    css: styles/styles.css
     footer: "2023管理会計特殊研究"
     smaller: false
     scrollable: true
@@ -34,6 +34,7 @@ format:
     toc-depth: 1
     navigation-mode: vertical
     pdf-separate-fragments: true
+    pdf-max-pages-per-slide: 1
     highlight-style: 'github'
     simplemenu:
         barhtml:
