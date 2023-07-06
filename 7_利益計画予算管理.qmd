@@ -23,7 +23,7 @@ title: "7 利益計画"
 
 # CVP関係の分析 {data-stack-name="CVP関係の分析"}
 
-## CVP関係  (cost-volume-profit)
+## CVP関係 (cost-volume-profit)
 
 -   企業にとって最も基本的な会計の関係
 -   利益 = 収益 - 費用
@@ -73,7 +73,7 @@ $$
 
 ![](images/2.png){.fragment}
 
-![](images/3.png)
+![](images/3.png){.fragment}
 
 ![](images/4.png){.fragment}
 :::
